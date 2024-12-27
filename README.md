@@ -35,13 +35,8 @@ https://www.kaggle.com/datasets/pariza/bbc-news-summary
   - Summarize Text
 
 
-## CI/CD Pipeline
-- Developed a CI/CD pipeline using Docker, Azure and GitHub Actions.
-- Utilized Azure Container Instance (ACI) for deploying the image, triggers for every push to the main branch.
-- **Source Code:** `.github/workflows/azure.yml`
-- **IPv4 Address:** [Text Summarizer](http://20.235.235.107:8000/) ( http://20.235.235.107:8000/ )
-- **FQDN:** [Text Summarizer](http://text-summarizer.bqegenbyedfzhpa3.centralindia.azurecontainer.io:8000/) ( http://text-summarizer.bqegenbyedfzhpa3.centralindia.azurecontainer.io:8000/ )
-- **Screenshots:** 
+## Screenshots
+
 <div align="center">
     <a><img src="https://drive.usercontent.google.com/u/0/uc?id=1y0upt5MfiMXMrA5Ar6D0FV91EJ2FIb0p&export=download" border="0"></a>
 </div><br>
