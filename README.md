@@ -35,21 +35,6 @@ https://www.kaggle.com/datasets/pariza/bbc-news-summary
   - Summarize Text
 
 
-## Screenshots
-
-<div align="center">
-    <a><img src="https://drive.usercontent.google.com/u/0/uc?id=1y0upt5MfiMXMrA5Ar6D0FV91EJ2FIb0p&export=download" border="0"></a>
-</div><br>
-<div align="center">
-    <a><img src="https://drive.usercontent.google.com/u/0/uc?id=1F1agLXesw1XyLh7xBWAC2zxju3bGTaGc&export=download" border="0"></a>
-</div><br>
-<div align="center">
-    <a><img src="https://drive.usercontent.google.com/u/0/uc?id=1M5aIP7_Q7eakyBQ-dSxSaJqJBsblGmzy&export=download" border="0"></a>
-</div><br>
-<div align="center">
-    <a><img src="https://drive.usercontent.google.com/u/0/uc?id=1rrHoRdoJEk8VTyrG8Py2RirkXspZadBQ&export=download" border="0"></a>
-</div><br>
-</i>
 
 ----
 
